@@ -13,7 +13,7 @@
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/shopyourstore/</guid>
-      <description>An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and &amp;ldquo;shop their store&amp;rdquo;.
+      <description>An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and other users can &amp;ldquo;shop their store&amp;rdquo;.
   This project is geared at people who want to sell off old clothes and those you don&amp;rsquo;t have the means to run their own website due to cost.
   This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
     </item>

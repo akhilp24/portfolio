@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Akhil Peddikuppa"
 theme = "hugo-PaperMod"
-
+buildDrafts = false
 [params]
 env = "production"
 title = "Akhil Peddikuppa"
@@ -12,6 +12,7 @@ ShowShareButtons = false
 comments = false
 defaultTheme = "auto"
 disableThemeToggle = false
+
 [fuseOpts]
 isCaseSensitive = false
 shouldSort = true
