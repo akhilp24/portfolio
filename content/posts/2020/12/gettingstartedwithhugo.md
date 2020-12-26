@@ -70,7 +70,7 @@ draft: true
 The title parameter will be the title of your blog post. For this template you can add a cover image by adding:
 ```
 cover:
-    image: (insert image URL here)
+    image: insert image URL here
 ```
 to the post data.
 

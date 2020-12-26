@@ -35,3 +35,5 @@ These vehicles can operate without human interaction except for entering a desti
 ## And Finally, 
 ## Level 5: Full Automation
 Level 5 vehicles have full autonomous capabilities and can operate on their own. They likely will not have steering wheels or pedals for accelerating or braking. They will also be free from any geographic boundaries that Level 4 vehicles were constrained by and would be able to go anywhere and do anything an experienced human driver could do. There are no Level 5 vehicles available to the public as of right now, however testing is being done in several places around the world.
+
+

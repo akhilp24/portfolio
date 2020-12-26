@@ -39,6 +39,8 @@ points in addition to the 10 which is called a "**power**".
 
 Each bonus question is worth 10 points.
 
+Quiz Bowl is unique in the sense that it is an academic competition that you don't take a test for, but, instead, you buzz in to answer questions, which makes tournaments an enjoyable experience.
+
 When do we meet? {#282f702d-f4e1-4c0e-bc24-26bd2bdb80a2}
 ================
 

@@ -1,7 +1,7 @@
 ---
 title: "Criminal Justice Reform Essay - Negative"
 date: 2020-08-14
-draft: false
+draft: true
 author: ["Akhil Peddikuppa", "Jose Alonzo"]
 cover: 
     image: https://miro.medium.com/max/800/1*ndYv7y_luZKWpchte_DZ4Q.png

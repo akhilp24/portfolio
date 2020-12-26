@@ -56,21 +56,21 @@
     </item>
     
     <item>
-      <title>Porsche Taycan Edit Video</title>
-      <link>/projects/porschetaycanvideo/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/porschetaycanvideo/</guid>
-      <description>     This was a challenge to edit a video using Youtuber Justin Tse&amp;rsquo;s footage.  </description>
-    </item>
-    
-    <item>
       <title>Portfolio</title>
       <link>/projects/firstproject/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/firstproject/</guid>
       <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of thoughts in a blog format.</description>
+    </item>
+    
+    <item>
+      <title>Porsche Taycan Edit Video</title>
+      <link>/projects/porschetaycanvideo/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/porschetaycanvideo/</guid>
+      <description>     This was a challenge to edit a video using Youtuber Justin Tse&amp;rsquo;s footage.  </description>
     </item>
     
   </channel>

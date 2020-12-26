@@ -66,7 +66,7 @@ Have developed time management skills in order to participate in extracurricular
 
 - Placed **2nd** in DISD's JV Debate Competition
 - Repeatedly placed in Varsity Debate Competitions
-- Placed **3rd** in DISD's [Criminal Justice Reform Essay Competition](/posts/criminal-justice-reform-essay-_-negative.md-12-39-57-647/)
+- Placed **3rd** in DISD's [Criminal Justice Reform Essay Competition](/posts/2020/8/criminal-justice-reform-essay-_-negative/)
 
 ### Scripps Spelling Bee
 

@@ -83,8 +83,8 @@ Step 1: Installation The easiest way to install Hugo is through Homebrew. I reco
       
       <guid>/posts/2020/12/toolsandtech/</guid>
       <description>A Walkthrough of What I Use&amp;hellip; ☎️ Phone My current phone is the iPhone 11 Pro Max.
-💻 Laptop My laptop is the 2019 MacBook Pro. The specs are:
-   Processor RAM Storage GPU     2.3 GHz Intel i9 16 GB 1 TB AMD Radeon Pro 5500M    ⌨️ Keyboard My keyboard is the Royal Kludge RK61 Mechanical Keyboard.
+💻 Laptop My laptop is the 2019 MacBook Pro . The specs are:
+   Processor RAM Storage GPU     2.3 GHz Intel i9 16 GB 1 TB AMD Radeon Pro 5500M    ⌨️ Keyboard My keyboard is the Royal Kludge RK61 Mechanical Keyboard .
 🎧 Headphones The headphones I use are the original AirPods from Apple.</description>
     </item>
     
@@ -96,16 +96,6 @@ Step 1: Installation The easiest way to install Hugo is through Homebrew. I reco
       <guid>/posts/2020/4/favoritefreevideoediting/</guid>
       <description>DaVinci Resolve 17 is a video editing software that is FREE, used by professionals and packs many features that make it a great alternative to Adobe&amp;rsquo;s Creative Cloud or Apple&amp;rsquo;s Final Cut.
 What is DaVinci Resolve? If you take a look at the main video-editing softwares used by professionals, you&amp;rsquo;re most likely going to see either Premiere Pro or Final Cut Pro X. Now to people who can&amp;rsquo;t spend upwards of $40/month or $300, or for those who do not own an Apple machine, this may not be a viable option.</description>
-    </item>
-    
-    <item>
-      <title>Criminal Justice Reform Essay - Negative</title>
-      <link>/posts/2020/8/criminal-justice-reform-essay-_-negative.md-12-39-57-647/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/8/criminal-justice-reform-essay-_-negative.md-12-39-57-647/</guid>
-      <description>Preface This Essay is one that was submitted in the Dallas Urban Debate Alliance&amp;rsquo;s essay competition concerning the topic of Criminal Justice Reform. This essay won third place in that competition.
- Many in the United States have been yearning for a reform in the criminal justice system citing issues such as racism, prevalence of junk methods in forensic science, and harsh, strict sentencing for drug cases. Proponents of criminal justice reform have proposed a plan that states:</description>
     </item>
     
     <item>
@@ -121,15 +111,6 @@ What is DaVinci Resolve? If you take a look at the main video-editing softwares 
     </item>
     
     <item>
-      <title>Porsche Taycan Edit Video</title>
-      <link>/projects/porschetaycanvideo/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/porschetaycanvideo/</guid>
-      <description>     This was a challenge to edit a video using Youtuber Justin Tse&amp;rsquo;s footage.  </description>
-    </item>
-    
-    <item>
       <title>Portfolio</title>
       <link>/projects/firstproject/</link>
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
@@ -139,13 +120,22 @@ What is DaVinci Resolve? If you take a look at the main video-editing softwares 
     </item>
     
     <item>
+      <title>Porsche Taycan Edit Video</title>
+      <link>/projects/porschetaycanvideo/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/porschetaycanvideo/</guid>
+      <description>     This was a challenge to edit a video using Youtuber Justin Tse&amp;rsquo;s footage.  </description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>My name is Akhil Peddikuppa and I am currently a sophomore at the School for the Talented and Gifted in Dallas, Texas. I&amp;rsquo;m 15 years old and intending to study medicine in the future and incorporate my interest of technology with it.
-I&amp;rsquo;ve always been interesting in creating my own things whether it be an app, videos, or music. Recently, I&amp;rsquo;ve been researching peer to peer networking and especially decentralized network protocols with technology like IPFS or the InterPlanetary File System.</description>
+      <description>My name is Akhil Peddikuppa and I am currently a sophomore at the School for the Talented and Gifted in Dallas, Texas. I&amp;rsquo;m now 15 years old and intending to study medicine in the future.
+My main areas of interest are biology, chemistry, technology, and business, and I have been self learning about these topics for use in my everyday life. Recently, I&amp;rsquo;ve been researching peer to peer networking and especially decentralized network protocols with technology like IPFS or the InterPlanetary File System.</description>
     </item>
     
     <item>
@@ -154,8 +144,7 @@ I&amp;rsquo;ve always been interesting in creating my own things whether it be a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resume/</guid>
-      <description>📧 - akhil.peddikuppa@outlook.com
-📞 - 469-290-2670
+      <description>📧 - akhil.peddikuppa@outlook.com 📞 - 469-290-2670
  Responsible and hard working student (4.0 GPA) with excellent time management and exceptional organization skills that enable me to succeed in school. Possesses a strong work ethic and growth mindset which helps me and others around me to succeed.
  🛠 Technical Skills Web Design/Programming HTML, CSS, Javascript, Dart, Java, Python, SQL, Swift
 App Development Built iOS, Android, MacOS, and web apps with the Flutter SDK using the Dart programming language.</description>
