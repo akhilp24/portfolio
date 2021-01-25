@@ -1,19 +1,18 @@
 ---
 title: "🛠 My Tools and Tech"
 date: 2020-12-21
-draft: false
-cover: 
-    image: /img/banner.png
+draft: true
+cover:
+  image: /img/banner.png
 weight: 3
 showToc: true
 ---
 
 ## A Walkthrough of What I Use...
 
-
 ### ☎️ Phone
 
-My current phone is the iPhone 11 Pro Max. 
+My current phone is the iPhone 11 Pro Max.
 
 ### 💻 Laptop
 
@@ -22,15 +21,13 @@ My laptop is the [2019 MacBook Pro](https://www.apple.com/macbook-pro-16/). The 
 |---|---|---|---|
 |2.3 GHz Intel i9|16 GB|1 TB|AMD Radeon Pro 5500M|
 
-
 ### ⌨️ Keyboard
 
 My keyboard is the [Royal Kludge RK61 Mechanical Keyboard](https://www.amazon.com/RK-ROYAL-KLUDGE-Ultra-Compact-Multi-Device/dp/B08D8WFFXC/ref=sr_1_15?dchild=1&keywords=royal+kludge+rk61+mechanical+keyboard&qid=1608661998&sr=8-15).
 
-
 ### 🎧 Headphones
 
-The headphones I use are the original [AirPods](https://www.apple.com/airpods/) from Apple. 
+The headphones I use are the original [AirPods](https://www.apple.com/airpods/) from Apple.
 
 ---
 
@@ -58,9 +55,10 @@ My browser of choice is [Firefox](https://www.mozilla.org/en-US/firefox/new/). F
 ---
 
 ### VS Code
+
 The IDE I use for app development and for making this website is [Visual Studio Code](https://code.visualstudio.com/), and the theme I use is the Dracula Theme.
 
-{{< figure src="https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1_sop.gif" title="" >}}
+{{< figure src="https://raw.githubusercontent.com/dracula/visual-studio-code/master/screenshot.png" title="" >}}
 
 ---
 
@@ -69,6 +67,7 @@ The IDE I use for app development and for making this website is [Visual Studio 
 [Alfred](https://www.alfredapp.com/) is a great tool for navigating MacOS. It is very similar to Spotlight, however, Alfred is a lot faster than Spotlight and has a lot more features.
 {{< figure src="https://pbs.twimg.com/media/EpSnYH9XIAAKPrg.jpg" title="" >}}
 
+---
 
 ### 📺 OBS
 

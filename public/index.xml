@@ -6,25 +6,14 @@
     <description>Recent content on Akhil Peddikuppa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>CommonPlace v2</title>
-      <link>/projects/commonplacev2/</link>
-      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Covid-19 Tracker</title>
+      <link>/projects/covid19tracker/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/commonplacev2/</guid>
-      <description>Note: This app is in progress  An app to connect the community in a neighborhood. Users can create a community in which posts can be made, and users can schedule events which can be attended by others in the community Flutter SDK used to build the app with data from backend fetched from REST API. Features include direct messaging, group messaging, and ability to add advertisement per community.  </description>
-    </item>
-    
-    <item>
-      <title>Shop Your Store</title>
-      <link>/projects/shopyourstore/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/shopyourstore/</guid>
-      <description>Note: This app is in progress   An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and other users can &amp;ldquo;shop their store&amp;rdquo;.
-  This project is geared at people who want to sell off old clothes and those you don&amp;rsquo;t have the means to run their own website due to cost.
-  This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
+      <guid>/projects/covid19tracker/</guid>
+      <description> Built Covid-19 Tracker Web app that fetches data from Worldometer&amp;rsquo;s API, which updates every 10 minutes  Demo  </description>
     </item>
     
     <item>
@@ -38,14 +27,22 @@
     </item>
     
     <item>
-      <title>How to Get Started with Hugo</title>
-      <link>/posts/2020/12/gettingstartedwithhugo/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <title>How to Import Quizlet Decks to Anki</title>
+      <link>/posts/2021/1/howtoimportquizletdeckstoanki/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
-      <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
-What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
-Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
+      <guid>/posts/2021/1/howtoimportquizletdeckstoanki/</guid>
+      <description>Importing decks from Quizlet into Anki is very simple. Here&amp;rsquo;s how:
+Steps to Import  With Anki open, navigate to the toolbar Go to Tools &amp;gt; Add-ons Click Get Add-ons Paste 538351043 and hit OK (This installs the Quizlet Importer add-on) Next, Restart Anki Go to the Quizlet deck you want to import Copy the link, then go to Tools &amp;gt; Import from Quizlet Paste the Quizlet link, hit OK, and you&amp;rsquo;re all done.</description>
+    </item>
+    
+    <item>
+      <title>CommonPlace v2</title>
+      <link>/projects/commonplacev2/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/commonplacev2/</guid>
+      <description>Note: This app is in progress  An app to connect communities of any sort such as clubs, hobby groups, or classes by creating a &amp;ldquo;Common Place&amp;rdquo;. Users can create a community in which posts can be made, and users can schedule events which can be attended by others in their &amp;ldquo;Common Place&amp;rdquo; Flutter SDK used to build the app with data from Cloud Firestore backend. Features include direct messaging, group messaging, video call, and posts with file attachments.</description>
     </item>
     
     <item>
@@ -72,37 +69,56 @@ Level 0: No Automation These vehicles are the normal everyday cars that are manu
     </item>
     
     <item>
+      <title>How to Remove Password Protection from a PDF on a Mac</title>
+      <link>/posts/2021/1/howtoremovepasswordpdf/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2021/1/howtoremovepasswordpdf/</guid>
+      <description>Steps  Open the PDF in Preview by double-clicking it in Finder Go to File &amp;gt; Export as PDF... Remove the second .pdf and save the file There will be a dialog that asks to replace it, click Replace  That&amp;rsquo;s it. The password protection has been removed from the PDF.</description>
+    </item>
+    
+    <item>
+      <title>How to Get Started with Hugo</title>
+      <link>/posts/2020/12/gettingstartedwithhugo/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
+      <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
+What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
+Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
+    </item>
+    
+    <item>
       <title>BuzzerBowl</title>
       <link>/projects/buzzerbowl/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/buzzerbowl/</guid>
-      <description>Note: This app is in progress   An app for quizbowl players to practice quiz bowl questions
+      <description>Note: This app is in progress   An app for Quiz Bowl players to practice quiz bowl questions
   Functionality includes ability to create or join games, practice, live buzzing, and native text-to-speech functionality for iOS, Android, MacOS, and Web.
   Front end made using the Flutter SDK and backend made using Cloud Firestore
   </description>
     </item>
     
     <item>
-      <title>🛠 My Tools and Tech</title>
-      <link>/posts/2020/12/toolsandtech/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/2020/12/toolsandtech/</guid>
-      <description>A Walkthrough of What I Use&amp;hellip; ☎️ Phone My current phone is the iPhone 11 Pro Max.
-💻 Laptop My laptop is the 2019 MacBook Pro . The specs are:
-   Processor RAM Storage GPU     2.3 GHz Intel i9 16 GB 1 TB AMD Radeon Pro 5500M    ⌨️ Keyboard My keyboard is the Royal Kludge RK61 Mechanical Keyboard .
-🎧 Headphones The headphones I use are the original AirPods from Apple.</description>
-    </item>
-    
-    <item>
-      <title>My Favorite Free AND Professional Video-Editing Program</title>
+      <title>My Favorite Free and Professional Video-Editing Program</title>
       <link>/posts/2020/4/favoritefreevideoediting/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/2020/4/favoritefreevideoediting/</guid>
-      <description>DaVinci Resolve 17 is a video editing software that is FREE, used by professionals and packs many features that make it a great alternative to Adobe&amp;rsquo;s Creative Cloud or Apple&amp;rsquo;s Final Cut.
-What is DaVinci Resolve? If you take a look at the main video-editing softwares used by professionals, you&amp;rsquo;re most likely going to see either Premiere Pro or Final Cut Pro X. Now to people who can&amp;rsquo;t spend upwards of $40/month or $300, or for those who do not own an Apple machine, this may not be a viable option.</description>
+      <description>Note: This article was updated with the release of DaVinci Resolve 17 DaVinci Resolve 17 is a video editing software that is FREE, used by professionals and packs many features that make it a great alternative to Adobe&amp;rsquo;s Creative Cloud or Apple&amp;rsquo;s Final Cut.
+What is DaVinci Resolve? If you take a look at the main video-editing softwares used by professionals, you&amp;rsquo;re most likely going to see either Premiere Pro or Final Cut Pro X.</description>
+    </item>
+    
+    <item>
+      <title>Shop Your Store (SYS)</title>
+      <link>/projects/shopyourstore/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/shopyourstore/</guid>
+      <description>Note: This app is in progress   An Android and iOS e-commerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and other users can &amp;ldquo;shop their store&amp;rdquo;.
+  This project is geared at people who want to sell off old clothes and those who don&amp;rsquo;t have the means to run their own website due to cost.
+  This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
     </item>
     
     <item>
@@ -123,7 +139,8 @@ What is DaVinci Resolve? If you take a look at the main video-editing softwares 
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/firstproject/</guid>
-      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of my thoughts in a blog format.</description>
+      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of my thoughts in a blog format.
+If you would like to know how to get started with Hugo, click here .</description>
     </item>
     
     <item>
@@ -151,8 +168,7 @@ My main areas of interest are biology, chemistry, technology, and business, and 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resume/</guid>
-      <description>📧 - akhil.peddikuppa@outlook.com 📞 - 469-290-2670
- Responsible and hard working student (4.0 GPA) with excellent time management and exceptional organization skills that enable me to succeed in school. Possesses a strong work ethic and growth mindset which helps me and others around me to succeed.
+      <description>📧 - akhil.peddikuppa@outlook.com 📞 - 469-290-2670  Responsible and hard working student (4.0 GPA) with excellent time management and exceptional organization skills that enable me to succeed in school. Possesses a strong work ethic and growth mindset which helps me and others around me to succeed.
  🛠 Technical Skills Web Design/Programming HTML, CSS, Javascript, Dart, Java, Python, SQL, Swift
 App Development Built iOS, Android, MacOS, and web apps with the Flutter SDK using the Dart programming language.</description>
     </item>

@@ -3,12 +3,11 @@ title: "Internshift"
 date: 2020-10-18
 draft: false
 weight: 2
-author: ["Akhil Peddikuppa", "Ben Peckham"]
-hidemeta: false
 cover:
-    image: /img/InternShift.png
+  image: /img/internshift.png
+hidemeta: true
+author: ["Akhil Peddikuppa", "Ben Peckham"]
 ---
-    
 
 - App to aggregate internships and job openings for high school and college age students designed to decrease difficulty in the application process.
 
@@ -18,5 +17,4 @@ cover:
 
 - Submitted to Congressional App Challenge under District TX-30 represented by Congresswoman Eddie Bernice Johnson and placed 2nd.
 
-{{< youtube GElXGkyeOH8 >}}  
-
+{{< youtube GElXGkyeOH8 >}}

@@ -18,14 +18,13 @@
     </item>
     
     <item>
-      <title>How to Get Started with Hugo</title>
-      <link>/posts/2020/12/gettingstartedwithhugo/</link>
-      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      <title>How to Import Quizlet Decks to Anki</title>
+      <link>/posts/2021/1/howtoimportquizletdeckstoanki/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
-      <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
-What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
-Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
+      <guid>/posts/2021/1/howtoimportquizletdeckstoanki/</guid>
+      <description>Importing decks from Quizlet into Anki is very simple. Here&amp;rsquo;s how:
+Steps to Import  With Anki open, navigate to the toolbar Go to Tools &amp;gt; Add-ons Click Get Add-ons Paste 538351043 and hit OK (This installs the Quizlet Importer add-on) Next, Restart Anki Go to the Quizlet deck you want to import Copy the link, then go to Tools &amp;gt; Import from Quizlet Paste the Quizlet link, hit OK, and you&amp;rsquo;re all done.</description>
     </item>
     
     <item>
@@ -40,25 +39,33 @@ Level 0: No Automation These vehicles are the normal everyday cars that are manu
     </item>
     
     <item>
-      <title>🛠 My Tools and Tech</title>
-      <link>/posts/2020/12/toolsandtech/</link>
-      <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
+      <title>How to Remove Password Protection from a PDF on a Mac</title>
+      <link>/posts/2021/1/howtoremovepasswordpdf/</link>
+      <pubDate>Sat, 09 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2020/12/toolsandtech/</guid>
-      <description>A Walkthrough of What I Use&amp;hellip; ☎️ Phone My current phone is the iPhone 11 Pro Max.
-💻 Laptop My laptop is the 2019 MacBook Pro . The specs are:
-   Processor RAM Storage GPU     2.3 GHz Intel i9 16 GB 1 TB AMD Radeon Pro 5500M    ⌨️ Keyboard My keyboard is the Royal Kludge RK61 Mechanical Keyboard .
-🎧 Headphones The headphones I use are the original AirPods from Apple.</description>
+      <guid>/posts/2021/1/howtoremovepasswordpdf/</guid>
+      <description>Steps  Open the PDF in Preview by double-clicking it in Finder Go to File &amp;gt; Export as PDF... Remove the second .pdf and save the file There will be a dialog that asks to replace it, click Replace  That&amp;rsquo;s it. The password protection has been removed from the PDF.</description>
     </item>
     
     <item>
-      <title>My Favorite Free AND Professional Video-Editing Program</title>
+      <title>How to Get Started with Hugo</title>
+      <link>/posts/2020/12/gettingstartedwithhugo/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/2020/12/gettingstartedwithhugo/</guid>
+      <description>This tutorial will explain the steps needed to get started with Hugo to build a static website for your blog or portfolio.
+What is Hugo? Hugo is a free and open source static site generator used by many to create blogs or portfolio websites for themselves. I myself use Hugo for this portfolio/blog site.
+Step 1: Installation The easiest way to install Hugo is through Homebrew. I recommend installing Homebrew as it makes downloading apps a lot easier.</description>
+    </item>
+    
+    <item>
+      <title>My Favorite Free and Professional Video-Editing Program</title>
       <link>/posts/2020/4/favoritefreevideoediting/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/posts/2020/4/favoritefreevideoediting/</guid>
-      <description>DaVinci Resolve 17 is a video editing software that is FREE, used by professionals and packs many features that make it a great alternative to Adobe&amp;rsquo;s Creative Cloud or Apple&amp;rsquo;s Final Cut.
-What is DaVinci Resolve? If you take a look at the main video-editing softwares used by professionals, you&amp;rsquo;re most likely going to see either Premiere Pro or Final Cut Pro X. Now to people who can&amp;rsquo;t spend upwards of $40/month or $300, or for those who do not own an Apple machine, this may not be a viable option.</description>
+      <description>Note: This article was updated with the release of DaVinci Resolve 17 DaVinci Resolve 17 is a video editing software that is FREE, used by professionals and packs many features that make it a great alternative to Adobe&amp;rsquo;s Creative Cloud or Apple&amp;rsquo;s Final Cut.
+What is DaVinci Resolve? If you take a look at the main video-editing softwares used by professionals, you&amp;rsquo;re most likely going to see either Premiere Pro or Final Cut Pro X.</description>
     </item>
     
   </channel>

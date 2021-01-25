@@ -3,8 +3,8 @@ title: "Criminal Justice Reform Essay - Negative"
 date: 2020-08-14
 draft: true
 author: ["Akhil Peddikuppa", "Jose Alonzo"]
-cover: 
-    image: https://miro.medium.com/max/800/1*ndYv7y_luZKWpchte_DZ4Q.png
+cover:
+  image: https://miro.medium.com/max/800/1*ndYv7y_luZKWpchte_DZ4Q.png
 weight: 8
 ---
 
@@ -14,8 +14,13 @@ This Essay is one that was submitted in the Dallas Urban Debate Alliance's essay
 
 ---
 
-Many in the United States have been yearning for a reform in the criminal justice system citing issues such as racism, prevalence of junk methods in forensic science, and harsh, strict sentencing for drug cases. Proponents of criminal justice reform have proposed a plan that states: 
-> *The United States federal government should enact substantial criminal justice reform in the United States in one or more of the following areas: forensic science, policing, sentencing.*    
+{{< linkbookmark title = "PDF Version Of Essay" description = "This is the PDF Version and the format in which the essay was submitted if you would like to read it through a different medium." src = "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/13/c6/29/13c62973-f6d3-c352-c46d-c6b4b3bb90fe/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" href = "/files/CriminalJusticeReformEssayFinal.pdf" >}}
+
+---
+
+Many in the United States have been yearning for a reform in the criminal justice system citing issues such as racism, prevalence of junk methods in forensic science, and harsh, strict sentencing for drug cases. Proponents of criminal justice reform have proposed a plan that states:
+
+> _The United States federal government should enact substantial criminal justice reform in the United States in one or more of the following areas: forensic science, policing, sentencing._
 
 This plan is unnecessary largely because many of the points and examples that have been made are very faulty and contain generalizations that are not supported by evidence. Over the past few decades, these systems have progressively become more effective and less faulty and has reformed itself over time.
 
@@ -31,32 +36,32 @@ The plan provided does not attack the root of the problem, instead it attempts t
 
 # **Works Cited**:
 
-Nicosia, Chloe. “The Legalization of Marijuana and the Negative Impact.” *WhiteSandsTreatment*, whitesandstreatment.com/addiction-articles/legalization-marijuana-negative-impact/.
+Nicosia, Chloe. “The Legalization of Marijuana and the Negative Impact.” _WhiteSandsTreatment_, whitesandstreatment.com/addiction-articles/legalization-marijuana-negative-impact/.
 
-“Households and Families.” *Social Trends*, vol. 40, no. 1, 2010, pp. 13–26., doi:10.1057/st.2010.6.
+“Households and Families.” _Social Trends_, vol. 40, no. 1, 2010, pp. 13–26., doi:10.1057/st.2010.6.
 
-“40 Facts About Two Parent Families: Studies and Statistics.” *GillespieShields*, 28 Feb. 2020, gillespieshields.com/40-facts-two-parent-families/.
+“40 Facts About Two Parent Families: Studies and Statistics.” _GillespieShields_, 28 Feb. 2020, gillespieshields.com/40-facts-two-parent-families/.
 
-Gramlich, John. “5 Facts about Crime in the U.S.” *Pew Research Center*, Pew Research Center, 17 Oct. 2019, [www.pewresearch.org/fact-tank/2019/10/17/facts-about-crime-in-the-u-s/](http://www.pewresearch.org/fact-tank/2019/10/17/facts-about-crime-in-the-u-s/).
+Gramlich, John. “5 Facts about Crime in the U.S.” _Pew Research Center_, Pew Research Center, 17 Oct. 2019, [www.pewresearch.org/fact-tank/2019/10/17/facts-about-crime-in-the-u-s/](http://www.pewresearch.org/fact-tank/2019/10/17/facts-about-crime-in-the-u-s/).
 
-Musick, Kelly. “Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being”. *Community and Rural Development Institute*. Meier, Ann. 28 April 2009. Pg. 1.
+Musick, Kelly. “Are Both Parents Always Better Than One? Parental Conflict and Young Adult Well-Being”. _Community and Rural Development Institute_. Meier, Ann. 28 April 2009. Pg. 1.
 
-Holder Jr., Eric. “*The Impact of Forensic Science Research and Development*”. Mason, Karel. Rodriguez, Nancy. Apr. 2015. Pgs. 3-8.
+Holder Jr., Eric. “_The Impact of Forensic Science Research and Development_”. Mason, Karel. Rodriguez, Nancy. Apr. 2015. Pgs. 3-8.
 
 Bureau of Justice Statistics. (2004). Data collection: Survey of inmates in state correctional facilities (SISCF). Retrieved from http:// [www.bjs.gov/index.cfm?ty=dcdetail&iid=275](http://www.bjs.gov/index.cfm?ty=dcdetail&iid=275)
 
-Andréasson S, et al. (1987). “*Cannabis and Schizophrenia: A longitudinal study of Swedish conscripts*”. Lancet, 2(8574)
+Andréasson S, et al. (1987). “_Cannabis and Schizophrenia: A longitudinal study of Swedish conscripts_”. Lancet, 2(8574)
 
-Meier, M.H. (2012). “*Persistent cannabis users show neuropsychological decline from childhood to midlife*”. Proceedings of the National Academy of Sciences
+Meier, M.H. (2012). “_Persistent cannabis users show neuropsychological decline from childhood to midlife_”. Proceedings of the National Academy of Sciences
 
-DeAngelo, Gregory, and Audrey Redford. “Is Medical Marijuana a Gateway Drug?The Effect of Medical Marijuana Legalization on Heroin Use Rates.” *Department of Economics West Virginia University Department of Agricultural & Applied Economics Texas Tech University*, 6 Feb. 2016, pp. 1–5.
+DeAngelo, Gregory, and Audrey Redford. “Is Medical Marijuana a Gateway Drug?The Effect of Medical Marijuana Legalization on Heroin Use Rates.” _Department of Economics West Virginia University Department of Agricultural & Applied Economics Texas Tech University_, 6 Feb. 2016, pp. 1–5.
 
-Adapted by CESAR from The National Center on Addiction and Substance Abuse at Columbia University (CASA), “*National Survey of American Attitudes on Substance Abuse XVII: Teens*”, 2012. Retrieved from http://www.casacolumbia.org/upload/2012/20120822teensurvey.pdf 10
+Adapted by CESAR from The National Center on Addiction and Substance Abuse at Columbia University (CASA), “_National Survey of American Attitudes on Substance Abuse XVII: Teens_”, 2012. Retrieved from http://www.casacolumbia.org/upload/2012/20120822teensurvey.pdf 10
 
-Mehmedic, Z., et al. (2010). “*Potency Trends of D9-THC and Other Cannabinoids in Confiscated Cannabis Preparations from 1993 to 2008*”. The Journal of Forensic Sciences, 55 (5).
+Mehmedic, Z., et al. (2010). “_Potency Trends of D9-THC and Other Cannabinoids in Confiscated Cannabis Preparations from 1993 to 2008_”. The Journal of Forensic Sciences, 55 (5).
 
-NSDUH, “*Summary of National Findings*”, 2012. Retrieved from http://www.samhsa.gov/data/NSDUH/2012SummNatFindDetTables/NationalFindings/NSDUHresults2012.pdf 26
+NSDUH, “_Summary of National Findings_”, 2012. Retrieved from http://www.samhsa.gov/data/NSDUH/2012SummNatFindDetTables/NationalFindings/NSDUHresults2012.pdf 26
 
-Rocky Mountain HIDTA. (2013). “*Legalization of Marijuana in Colorado: The Impact*”. Retrieved from http://www.rmhidta.org/html/FINAL%20Legalization%20of%20MJ%20in%20Colorado%20The%20Impact.pdf. 27
+Rocky Mountain HIDTA. (2013). “_Legalization of Marijuana in Colorado: The Impact_”. Retrieved from http://www.rmhidta.org/html/FINAL%20Legalization%20of%20MJ%20in%20Colorado%20The%20Impact.pdf. 27
 
-Salomonsen-Sautel, S., et al. (2012). “*Medical marijuana use among adolescents in substance abuse treatment*”. Journal of American Academic Child & Adolescent Psychiatry, 51(7).
+Salomonsen-Sautel, S., et al. (2012). “_Medical marijuana use among adolescents in substance abuse treatment_”. Journal of American Academic Child & Adolescent Psychiatry, 51(7).

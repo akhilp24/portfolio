@@ -58,24 +58,32 @@ keys = [ "title", "permalink", "summary", "content" ]
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "My name is **Akhil**. I'm a High School Sophomore at the School for the Talented and Gifted in Dallas, Texas, and I am interested in medicine, tech, and economics. I have built this site to showcase my work and to occasionally write about topics I'm interested in. If you would like to know more about me, you can click [this link to visit my page about me](/about/), or if you would like to see some of my projects, [click here](/projects/)."
-  
+  Content = "My name is **Akhil**. I'm a High School Sophomore at the School for the Talented and Gifted, and I am interested in medicine, tech, and economics. I have built this site to showcase my work and to occasionally write about topics I'm interested in. If you would like to know more about me, you can click [this link to visit my page about me](/about/), or if you would like to see my projects, [click here](/projects/) or scroll down."
+  imageUrl = "/img/image.png"
+  imageTitle = "Yo"
+  imageWidth = 165
+  imageHeight = 165
+
   
   [[params.socialIcons]]
   name = "email"
   url = "mailto:akhil.peddikuppa@outlook.com"
   [[params.socialIcons]]
-  name = "twitter"
-  url = "https://twitter.com/bballbeast301"
+  name = "resume"
+  url = "/files/Akhil_Resume.pdf"
 
   [[params.socialIcons]]
   name = "youtube"
   url = "https://www.youtube.com/channel/UCQb004LW6mQhC_ONxAIaJTw?view_as=subscriber"
-
+[[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/akhilp.24"
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/bballbeast30"
 
+
+  
   
 
   [params.cover]

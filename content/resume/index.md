@@ -5,7 +5,7 @@ hidemeta: true
 
 📧  - [akhil.peddikuppa@outlook.com](mailto:akhil.peddikuppa@outlook.com)
 
-📞  - 469-290-2670
+📞  - [469-290-2670](tel:4692902670)
 
 > Responsible and hard working student (4.0 GPA) with excellent time management and exceptional organization skills that enable me to succeed in school. Possesses a strong work ethic and growth mindset which helps me and others around me to succeed.
 
@@ -19,7 +19,7 @@ HTML, CSS, Javascript, Dart, Java, Python, SQL, Swift
 
 ### App Development
 
-Built iOS, Android, MacOS, and web apps with the Flutter SDK using the Dart programming language. Experience with building apps with NoSQL database backends. Basic knowledge of the use of Git and version control. 
+Built iOS, Android, MacOS, and web apps with the Flutter SDK using the Dart programming language. Experience with building apps with NoSQL database backends. Basic knowledge of the use of Git and version control.
 
 ### Leadership
 

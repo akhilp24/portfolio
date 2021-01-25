@@ -8,23 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Covid-19 Tracker</title>
+      <link>/projects/covid19tracker/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/covid19tracker/</guid>
+      <description> Built Covid-19 Tracker Web app that fetches data from Worldometer&amp;rsquo;s API, which updates every 10 minutes  Demo  </description>
+    </item>
+    
+    <item>
       <title>CommonPlace v2</title>
       <link>/projects/commonplacev2/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/commonplacev2/</guid>
-      <description>Note: This app is in progress  An app to connect the community in a neighborhood. Users can create a community in which posts can be made, and users can schedule events which can be attended by others in the community Flutter SDK used to build the app with data from backend fetched from REST API. Features include direct messaging, group messaging, and ability to add advertisement per community.  </description>
-    </item>
-    
-    <item>
-      <title>Shop Your Store</title>
-      <link>/projects/shopyourstore/</link>
-      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/shopyourstore/</guid>
-      <description>Note: This app is in progress   An Android and iOS ecommerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and other users can &amp;ldquo;shop their store&amp;rdquo;.
-  This project is geared at people who want to sell off old clothes and those you don&amp;rsquo;t have the means to run their own website due to cost.
-  This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
+      <description>Note: This app is in progress  An app to connect communities of any sort such as clubs, hobby groups, or classes by creating a &amp;ldquo;Common Place&amp;rdquo;. Users can create a community in which posts can be made, and users can schedule events which can be attended by others in their &amp;ldquo;Common Place&amp;rdquo; Flutter SDK used to build the app with data from Cloud Firestore backend. Features include direct messaging, group messaging, video call, and posts with file attachments.</description>
     </item>
     
     <item>
@@ -45,10 +43,21 @@
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/buzzerbowl/</guid>
-      <description>Note: This app is in progress   An app for quizbowl players to practice quiz bowl questions
+      <description>Note: This app is in progress   An app for Quiz Bowl players to practice quiz bowl questions
   Functionality includes ability to create or join games, practice, live buzzing, and native text-to-speech functionality for iOS, Android, MacOS, and Web.
   Front end made using the Flutter SDK and backend made using Cloud Firestore
   </description>
+    </item>
+    
+    <item>
+      <title>Shop Your Store (SYS)</title>
+      <link>/projects/shopyourstore/</link>
+      <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/shopyourstore/</guid>
+      <description>Note: This app is in progress   An Android and iOS e-commerce app that gives every user their own &amp;ldquo;store&amp;rdquo;, so they can sell their items and other users can &amp;ldquo;shop their store&amp;rdquo;.
+  This project is geared at people who want to sell off old clothes and those who don&amp;rsquo;t have the means to run their own website due to cost.
+  This app was built with the Flutter SDK as the front end and Cloud Firestore as the backend.</description>
     </item>
     
     <item>
@@ -69,7 +78,8 @@
       <pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/firstproject/</guid>
-      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of my thoughts in a blog format.</description>
+      <description>This portfolio page was made using Hugo, a static site generator. I made this portfolio to showcase my resume, my projects, and some of my thoughts in a blog format.
+If you would like to know how to get started with Hugo, click here .</description>
     </item>
     
     <item>
